@@ -1,0 +1,1 @@
+SELECT dept, number, left(title, 12) as short_title from Class;
